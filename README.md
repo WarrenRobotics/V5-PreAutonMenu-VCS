@@ -10,32 +10,30 @@ is in the works, which uses [PROS](https://pros.cs.purdue.edu/).
 
 Here is a list of some features:
 
-[*] Utilizes most of the space on the screen to display information or buttons.
+ * Utilizes most of the space on the screen to display information or buttons.
 
-[*] Autonomous mode selection(list), driver selection(list), and driver augment selection(yes/no).(*)
+ * Autonomous mode selection(list), driver selection(list), and driver augment selection(yes/no).(*)
 
-[*] Runs in a separate thread.
+ * Runs in a separate thread.
 
-[*] *Driver augment selection can be changed to a different setting.
+ * Comes default with 8 autonomous modes by default(including one to do nothing, or skills if desired).
 
-[*] Comes default with 8 autonomous modes by default(including one to do nothing, or skills if desired).
+ * Comes with 3 drivers by default.
 
-[*] Comes with 3 drivers by default.
+ * Has a review menu at the end to let user confirm settings, and change them if needed.
 
-[*] Has a review menu at the end to let user confirm settings, and change them if needed.
-
-[*] Flexability to change the name of the autonomous programs and drivers. The names only have to be changed
+ * Flexability to change the name of the autonomous programs and drivers. The names only have to be changed
 in one array location.
 
-[*] Flexability to add or remove extra options(tutorial in progress, requires adding another array value and creating another submenu).
+ * Flexability to add or remove extra options(tutorial in progress, requires adding another array value and creating another submenu).
 
 Here is a list of some features we wish to add in the future:
 
-[*] An object for a button that contains its position, dimensions, current state, and methods to draw. This will 
+ * An object for a button that contains its position, dimensions, current state, and methods to draw. This will 
 allow creating buttons to be much easier, as well as checking if they are pressed. If the idea of a Button object 
 won't work, [Jpearman's Buttons program](https://www.vexforum.com/uploads/default/original/2X/1/192a98c87b6c835adfdbee31b339f7c989e79ec7.vex)
 (see [this post](https://www.vexforum.com/t/how-do-you-make-buttons-on-the-brain-screen/49294/8)).
 
-[*] Double-Buffered rendering.
+ * Double-Buffered rendering.
 
-[*] Allow controller to change options in addition to the buttons on the screen.
+ * Allow controller to change options in addition to the buttons on the screen.
