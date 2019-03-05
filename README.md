@@ -8,6 +8,10 @@ or learning how menus flow with each other. Feel free to use code from this prog
 Due to some limitations within Vex Coding Studio, a [more advanced program](https://github.com/Wup123102/V5-MenuTester-PROS) 
 is in the works, which uses [PROS](https://pros.cs.purdue.edu/).
 
+Here is the simple work flow of the program:
+
+![Simple Workflow of Menu](https://github.com/WarrenRobotics/V5-PreAutonMenu-VCS/blob/master/src/common/images/V5PreAutonMenu.jpg)
+
 ---
 
 Here is a list of some features:
@@ -36,7 +40,7 @@ Here is a list of some features we wish to add in the future:
  * An object for a button that contains its position, dimensions, current state, and methods to draw. This will 
 allow creating buttons to be much easier, as well as checking if they are pressed. If the idea of a Button object 
 won't work, [Jpearman's Buttons program](https://www.vexforum.com/uploads/default/original/2X/1/192a98c87b6c835adfdbee31b339f7c989e79ec7.vex)
-(see [this post](https://www.vexforum.com/t/how-do-you-make-buttons-on-the-brain-screen/49294/8)).
+(see [this post](https://www.vexforum.com/t/how-do-you-make-buttons-on-the-brain-screen/49294/8)) may be another way to tackle the problem of buttons.
 
  * Double-Buffered rendering.
 
