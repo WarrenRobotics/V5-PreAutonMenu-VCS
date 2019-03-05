@@ -1,12 +1,14 @@
 # V5-PreAutonMenu-VCS 
 
-This is the repository for the MenuTester program, which runs on the VEX V5 Brain.
+This is the repository for the MenuTester program, which runs on the VEX V5 Brain and uses Vex Coding Studio.
 
 It is encouraged that people use this code to learn from, whether it be making graphics on the screen
 or learning how menus flow with each other. Feel free to use code from this program in your own as well.
 
 Due to some limitations within Vex Coding Studio, a [more advanced program](https://github.com/Wup123102/V5-MenuTester-PROS) 
 is in the works, which uses [PROS](https://pros.cs.purdue.edu/).
+
+---
 
 Here is a list of some features:
 
@@ -26,6 +28,8 @@ Here is a list of some features:
 in one array location.
 
  * Flexability to add or remove extra options(tutorial in progress, requires adding another array value and creating another submenu).
+
+---
 
 Here is a list of some features we wish to add in the future:
 
