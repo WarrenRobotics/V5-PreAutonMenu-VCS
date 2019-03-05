@@ -41,3 +41,20 @@ won't work, [Jpearman's Buttons program](https://www.vexforum.com/uploads/defaul
  * Double-Buffered rendering.
 
  * Allow controller to change options in addition to the buttons on the screen.
+ 
+ ## Images
+ 
+ ### Autonomous Selector
+ ![Autonomous Selector](https://github.com/WarrenRobotics/V5-PreAutonMenu-VCS/blob/master/src/common/images/1.jpg)
+ 
+ ### Driver Selector
+ ![Driver Selector](https://github.com/WarrenRobotics/V5-PreAutonMenu-VCS/blob/master/src/common/images/2.jpg)
+ 
+ ### Driver Control Augment Selector
+ ![Driver Control Augment Selector](https://github.com/WarrenRobotics/V5-PreAutonMenu-VCS/blob/master/src/common/images/3.jpg)
+ 
+ ### Review Menu
+ ![Review Menu](https://github.com/WarrenRobotics/V5-PreAutonMenu-VCS/blob/master/src/common/images/4.jpg)
+ 
+ ### Post-Review Menu(Settings Confirmed)
+ ![Post-Review Menu](https://github.com/WarrenRobotics/V5-PreAutonMenu-VCS/blob/master/src/common/images/5.jpg)
