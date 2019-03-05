@@ -42,6 +42,8 @@ won't work, [Jpearman's Buttons program](https://www.vexforum.com/uploads/defaul
 
  * Allow controller to change options in addition to the buttons on the screen.
  
+ * Implement redundancy so that the menu seletor can safely exit(and have default values) if a match were to start without confirming all options
+ 
  ## Images
  
  ### Autonomous Selector
