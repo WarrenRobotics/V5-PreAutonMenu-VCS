@@ -8,6 +8,9 @@ or learning how menus flow with each other. Feel free to use code from this prog
 Due to some limitations within Vex Coding Studio, a [more advanced program](https://github.com/Wup123102/V5-MenuTester-PROS) 
 is in the works, which uses [PROS](https://pros.cs.purdue.edu/).
 
+NOTE: For the "MenuTester_With_Competition.vex" program, a competition switch or match controller must be plugged into the controller 
+and have a current state of disabled BEFORE the program is run for the menu to start properly. 
+
 Here is the simple work flow of the program:
 
 ![Simple Workflow of Menu](https://github.com/WarrenRobotics/V5-PreAutonMenu-VCS/blob/master/src/common/images/V5PreAutonMenu.jpg)
